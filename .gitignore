@@ -29,12 +29,3 @@ venv/
 *.tmp
 *.swp
 
-# Large model files
-*.pt
-*.pth
-*.ckpt
-
-# Optional
-*.h5
-*.npy
-*.npz
