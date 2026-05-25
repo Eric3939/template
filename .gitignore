@@ -31,3 +31,8 @@ venv/
 *.tmp
 *.swp
 
+# Packaging artifacts
+*.egg-info/
+.eggs/
+build/
+dist/
